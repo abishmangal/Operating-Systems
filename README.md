@@ -8,4 +8,4 @@ Study Hours: 3 Months
 3. Take class notes and write down mini project ideas (3 hours per week)
 4. Do some Overthewire exercises in the weekends to learn linux (1 hour per week)
 
-Total hours per week (6 hours outside classes)
+Total hours per week (9 hours outside classes)
